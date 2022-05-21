@@ -35,5 +35,11 @@ public class Controller {
     public void setClima(Clima clima) {
         this.clima = clima;
     }  
+	
+	public void test(){
+		int a = 9;
+		int b = 3;
+	}
+		
     
 }
