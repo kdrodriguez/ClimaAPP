@@ -14,6 +14,10 @@ import javax.faces.bean.SessionScoped;
 @ManagedBean
 @SessionScoped
 public class Controller {
+	
+	private String nombre;
+	private String apellido;
+	private String profesion;
  
     private Clima clima;
     @EJB
@@ -31,5 +35,10 @@ public class Controller {
     public void setClima(Clima clima) {
         this.clima = clima;
     }  
+	
+	public void test(){
+		int a = 9;
+	}
+		
     
 }
