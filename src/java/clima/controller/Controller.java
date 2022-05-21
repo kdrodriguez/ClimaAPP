@@ -14,6 +14,10 @@ import javax.faces.bean.SessionScoped;
 @ManagedBean
 @SessionScoped
 public class Controller {
+	
+	private String nombre;
+	private String apellido;
+	private String profesion;
  
     private Clima clima;
     @EJB
