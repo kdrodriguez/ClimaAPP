@@ -39,6 +39,8 @@ public class Controller {
 	public void test(){
 		int a = 9;
 		int b = 3;
+		
+		int c = 10;
 	}
 		
     
