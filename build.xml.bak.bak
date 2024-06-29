@@ -62,8 +62,11 @@
             </exec>
         </target>
 
+<<<<<<< HEAD
     TEST branch1
+=======
     Test master
+>>>>>>> 8b8bdd08d46df5d14c73f8a29d2a23655bd2ab66
 
     -->
 </project>
